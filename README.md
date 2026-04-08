@@ -1,5 +1,5 @@
 
-#Sintaxis y Semántica de los Lenguaje de programación
+# Sintaxis y Semántica de los Lenguaje de programación
 
 k2003
 
